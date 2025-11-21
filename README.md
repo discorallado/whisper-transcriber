@@ -113,10 +113,6 @@ Install all dependencies with:
 ```bash
 pip install openai-whisper torch ffmpeg-python
 ```
-
-## License
-MIT License - See [LICENSE](LICENSE) for details.
-
 ---
 
 > **Note**: First run will download the Whisper model (~486MB for medium model). Subsequent runs will use the cached model.
